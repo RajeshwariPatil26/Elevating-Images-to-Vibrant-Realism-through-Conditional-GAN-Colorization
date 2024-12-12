@@ -43,11 +43,11 @@ Download the dataset and preprocess:
 Modify the dataset path in the script if needed.
 
 Train the Model:
-
 python train.py
-Test the Model:
 
+Test the Model:
 python test.py
+
 Visualize Results:
 Outputs are saved as colorized images in the results directory.
 Results
